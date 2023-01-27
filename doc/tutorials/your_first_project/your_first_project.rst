@@ -3,6 +3,8 @@ Your First C++ MoveIt Project
 
 This tutorial will step you through writing your first C++ application with MoveIt.
 
+**Note:** While this tutorial offfers a good introduction to starting your first MoveIt project, this is not necessarily the best starting point when you want to build a new MoveIt Project from scratch. For that, consider reading the more advanced `MoveGroup Interface C++ Example <https://moveit.picknik.ai/humble/doc/examples/move_group_interface/move_group_interface_tutorial.html>`_.
+
 Prerequisites
 -------------
 
